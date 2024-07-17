@@ -4,7 +4,9 @@
 
 `main.js` - the main jsPsych file, sets up Jatos, defines the overall structure of the experiment and imports all the other components.
 
-`data_analysis.mlx` - the Matlab live script file used to explore and analyse the data.
+`data_analysis.mlx` - the Matlab live script file used to explore and analyse the individual data.
+
+`data_analysis_multiple.mlx` - the Matlab live script file used to explore and analyse the global data.
 
 ## css/
 
